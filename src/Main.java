@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Main {
     static Scanner sc = new Scanner(System.in);
-
+Test
     static int a = sc.nextInt();
     static int b = sc.nextInt();
 
